@@ -27,7 +27,7 @@ const projects = [
     description: "Modern personal portfolio website with dark/neon theme, particle animations, and responsive design.",
     icon: <FaGlobe className="text-2xl text-[#39FF14]" />,
     tech: ["React", "Tailwind CSS", "Framer Motion"],
-    githubLink: "https://github.com/yourusername/portfolio",
+    githubLink: "https://github.com/NadunAtGit/MyPortfolio.git",
     status: "finished"
   },
   {
