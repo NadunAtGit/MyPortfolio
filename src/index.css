@@ -1,0 +1,30 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Great+Vibes&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Orbitron:wght@400..900&display=swap');
+
+@import "tailwindcss";
+
+@theme {
+  --font-dancing: "Dancing Script", cursive;
+  --font-montserrat: "Montserrat", sans-serif;
+  --font-greatvibes: "Great Vibes", cursive;
+  --font-orbitron: "Orbitron", sans-serif;
+  --color-neon: 	#39FF14;
+  --color-darkbg: #020202;
+}
+
+html, body, #root {
+  overflow-x: hidden;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+
+
+
+
+
