@@ -36,7 +36,7 @@ const Footer = () => {
             <FaEnvelope className="text-2xl" />
           </a>
           <a
-            href="https://instagram.com/your_instagram_username" // Replace with your Instagram username
+            href="https://instagram.com/n_a_d_u_n_404" // Replace with your Instagram username
             target="_blank"
             rel="noopener noreferrer"
             aria-label="Instagram"
